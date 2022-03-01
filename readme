@@ -1,0 +1,1 @@
+This code analysis Turkish wikipedia dump. And It gives you the 10 closest meaningful words to the desired word. You must use 1 .txt file. It creates word2vec, Tfidf and FastText models.
